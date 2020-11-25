@@ -4,13 +4,13 @@ import { selectError } from "../redux/selectors";
 import { errorSet } from "../redux/actionCreators";
 
 export default function ErrorMessage() {
-  const error = useSelector(selectError);
+  const errorMessage = useSelector(selectError);
   const dispatch = useDispatch();
-  const handleOnClose = dispatch(errorSet(""));
-  if (error !== "")
+  const handleOnClose = () => dispatch(errorSet(""));
+  if (errorMessage !== "")
     return (
       <Alert variant="danger" onClose={handleOnClose} dismissible>
-        {error}
+        {errorMessage}
       </Alert>
     );
   return "";
