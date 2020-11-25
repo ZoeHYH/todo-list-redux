@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/todo-list-redux/static/js/main.d3de4caa.chunk.js",
-    "main.js.map": "/todo-list-redux/static/js/main.d3de4caa.chunk.js.map",
+    "main.js": "/todo-list-redux/static/js/main.f87d97e2.chunk.js",
+    "main.js.map": "/todo-list-redux/static/js/main.f87d97e2.chunk.js.map",
     "runtime-main.js": "/todo-list-redux/static/js/runtime-main.12943b25.js",
     "runtime-main.js.map": "/todo-list-redux/static/js/runtime-main.12943b25.js.map",
-    "static/js/2.3a069f4d.chunk.js": "/todo-list-redux/static/js/2.3a069f4d.chunk.js",
-    "static/js/2.3a069f4d.chunk.js.map": "/todo-list-redux/static/js/2.3a069f4d.chunk.js.map",
+    "static/js/2.fba08cee.chunk.js": "/todo-list-redux/static/js/2.fba08cee.chunk.js",
+    "static/js/2.fba08cee.chunk.js.map": "/todo-list-redux/static/js/2.fba08cee.chunk.js.map",
     "index.html": "/todo-list-redux/index.html",
-    "static/js/2.3a069f4d.chunk.js.LICENSE.txt": "/todo-list-redux/static/js/2.3a069f4d.chunk.js.LICENSE.txt"
+    "static/js/2.fba08cee.chunk.js.LICENSE.txt": "/todo-list-redux/static/js/2.fba08cee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.12943b25.js",
-    "static/js/2.3a069f4d.chunk.js",
-    "static/js/main.d3de4caa.chunk.js"
+    "static/js/2.fba08cee.chunk.js",
+    "static/js/main.f87d97e2.chunk.js"
   ]
 }
